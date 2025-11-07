@@ -2,7 +2,7 @@
     "name":"KringFeng iCons", 
     "description":"Icons from KringFeng iCons Collection", 
     "icons": [ 
-        {"name":"Calendars", "url":"https://raw.githubusercontent.com/KringFeng/iCons/master/App/Calendars.jpg"} 
+        {"name":"Calendars", "url":"https://raw.githubusercontent.com/KringFeng/iCons/master/App/Calendars.jpg"}, 
         {"name":"115", "url":"https://raw.githubusercontent.com/KringFeng/iCons/master/App/115.png"}, 
         {"name":"1blocker", "url":"https://raw.githubusercontent.com/KringFeng/iCons/master/App/1blocker.png"}, 
         {"name":"52pj", "url":"https://raw.githubusercontent.com/KringFeng/iCons/master/App/52pj.png"}, 
